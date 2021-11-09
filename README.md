@@ -29,9 +29,6 @@ docker-compose build
 docker-compose up
 ```
 
-# Tutorials
-
-- [Youtube (es)](https://youtu.be/TqC3e8nBycg)
 
 # Improvements for the Future
 
